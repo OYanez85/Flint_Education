@@ -119,7 +119,7 @@ Interactive quizzes used during the Flynt Education IoT Bootcamp.
 Created and delivered by:
 
 **Oscar Yanez-Feijoo**  
-IoT, AI & Cybersecurity Instructor  
+CS, IoT, AI & Cybersecurity Instructor  
 Flynt Education
 
 ---
