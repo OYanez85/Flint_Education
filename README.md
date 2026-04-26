@@ -74,31 +74,31 @@ Interactive quizzes used during the Flynt Education IoT Bootcamp.
 ## 🎮 Available Kahoots
 
 ### 🧠 Introduction to Computer Science
-- Link: [PASTE_LINK_HERE](https://create.kahoot.it/share/intro-to-computer-science-coding-basics/a8d68ba6-1916-404b-b60f-9d5c631ea8d3)
+- Link: [KAHOOT](https://create.kahoot.it/share/intro-to-computer-science-coding-basics/a8d68ba6-1916-404b-b60f-9d5c631ea8d3)
 - Questions: 20
 
 ### 🌐 Networking & Internet
-- Link: [PASTE_LINK_HERE](https://create.kahoot.it/share/networking/ad315f5f-056d-43c4-aa39-0b5a238063e8)
+- Link: [KAHOOT](https://create.kahoot.it/share/networking/ad315f5f-056d-43c4-aa39-0b5a238063e8)
 - Questions: 29
 
 ### 🍓 Raspberry Pi Basics
-- Link: [PASTE_LINK_HERE](https://create.kahoot.it/share/raspberry-pi-basics-quiz/ce62312a-b2e8-4c39-b9ba-dfa826528921)
+- Link: [KAHOOT](https://create.kahoot.it/share/raspberry-pi-basics-quiz/ce62312a-b2e8-4c39-b9ba-dfa826528921)
 - Questions: 31
 
 ### 🔌 Arduino Day 1
-- Link: [PASTE_LINK_HERE](https://create.kahoot.it/share/arduino-day-1/949a2495-659b-4ae7-8e94-1c9e6b8d8132)
+- Link: [KAHOOT](https://create.kahoot.it/share/arduino-day-1/949a2495-659b-4ae7-8e94-1c9e6b8d8132)
 - Questions: 18
 
 ### 🔌 Arduino Day 2
-- Link: [PASTE_LINK_HERE](https://create.kahoot.it/share/arduino-day-2/08f68a57-0a08-4d1e-bf76-8b8529524f6d)
+- Link: [KAHOOT](https://create.kahoot.it/share/arduino-day-2/08f68a57-0a08-4d1e-bf76-8b8529524f6d)
 - Questions: 18
 
 ### 🎨 Scratch Programming
-- Link: [PASTE_LINK_HERE](https://create.kahoot.it/share/scratch/ac0d341b-2a00-49b9-8196-e1e9fa8d2f4d)
+- Link: [KAHOOT](https://create.kahoot.it/share/scratch/ac0d341b-2a00-49b9-8196-e1e9fa8d2f4d)
 - Questions: 24
 
 ### 🔐 Cybersecurity & AI
-- Link: [PASTE_LINK_HERE](https://create.kahoot.it/share/cyber-ai/abb6e995-b466-4165-8df6-176eb7b84d5c)
+- Link: [KAHOOT](https://create.kahoot.it/share/cyber-ai/abb6e995-b466-4165-8df6-176eb7b84d5c)
 - Questions: 13
 
 
