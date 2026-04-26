@@ -34,6 +34,15 @@ The course is structured as a **hands-on, project-based learning experience**.
 ### Day 3 – Raspberry Pi
 - Introduction to Linux and Raspberry Pi
 - CLI basics and system interaction
+- Creation of a website vid Linux CLI
+
+### Day 4 – How the Internet Works
+- Understanding how the Internet works behind the browser
+- DNS, IP addresses, and routing
+- HTTP vs HTTPS
+- Inspecting web requests and headers
+- Hands-on Linux CLI exercises (ping, curl, traceroute, nslookup)
+- Real-world examples (e.g., accessing websites, VPN demonstration)
 
 ### Python Games
 - Fun CLI-based Python games for learning programming:
