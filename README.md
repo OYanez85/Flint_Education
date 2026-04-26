@@ -34,6 +34,7 @@ The course is structured as a **hands-on, project-based learning experience**.
 ### Day 3 – Raspberry Pi
 - Introduction to Linux and Raspberry Pi
 - CLI basics and system interaction
+- Creation of a website vid Linux CLI
 
 ### Day 4 – How the Internet Works
 - Understanding how the Internet works behind the browser
