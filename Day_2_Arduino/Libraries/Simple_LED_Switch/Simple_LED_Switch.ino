@@ -21,7 +21,7 @@ void setup() {
   // initialize LED Pin as an output.
   pinMode(LEDPin, OUTPUT);
   //set the Button Pin as an input
-  pinMode(ButtonPin, INPUT);
+  pinMode(ButtonPin, INPUT_PULLUP);
 }
 
 // the loop function runs over and over again forever

@@ -14,12 +14,13 @@ This project demonstrates how a push button switch can be used to sound a buzzer
 // the setup function runs once when you press reset or power the board
 void setup() {
   //set the Button Pin as an input
-  pinMode(ButtonPin, INPUT);
+  pinMode(buzzer, OUTPUT);
+  pinMode(ButtonPin, INPUT_PULLUP);
 }
 
 // the loop function runs over and over again forever
 void loop() {
-  if (digitalRead(ButtonPin) == HIGH) {
+  if (digitalRead(ButtonPin) == LOW) {
     tone(buzzer, 2000);    // sound the buzzer
   } else {
     noTone(buzzer);        // turn the buzzer off
